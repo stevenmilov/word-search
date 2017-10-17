@@ -1,0 +1,146 @@
+Please enter grid filename:
+sampleExtra.txt
+n u n n u f n h
+f u u f f n u h
+u f f f e u f h
+n b u n u u n h
+f b n f u n f h
+u b c u e f u h
+n u f n u f n h
+a b n u f n g h
+a b c d e f g h
+
+Please enter phrase (sep. by single spaces):
+fun
+Looking for: fun
+containing 1 words
+The phrase: fun
+was found:
+fun: (0,5) to (0,3)
+n u n N U F n h
+f u u f f n u h
+u f f f e u f h
+n b u n u u n h
+f b n f u n f h
+u b c u e f u h
+n u f n u f n h
+a b n u f n g h
+a b c d e f g h
+
+Please enter phrase (sep. by single spaces):
+fun fun fun
+Looking for: fun fun fun
+containing 3 words
+The phrase: fun fun fun
+was found:
+fun: (0,5) to (0,3)
+fun: (1,4) to (3,6)
+fun: (4,6) to (6,6)
+n u n N U F n h
+f u u f F n u h
+u f f f e U f h
+n b u n u u N h
+f b n f u n F h
+u b c u e f U h
+n u f n u f N h
+a b n u f n g h
+a b c d e f g h
+
+Please enter phrase (sep. by single spaces):
+fun fun fun fun fun
+Looking for: fun fun fun fun fun
+containing 5 words
+The phrase: fun fun fun fun fun
+was found:
+fun: (0,5) to (0,3)
+fun: (1,4) to (3,6)
+fun: (4,6) to (6,6)
+fun: (6,5) to (6,3)
+fun: (6,2) to (6,0)
+n u n N U F n h
+f u u f F n u h
+u f f f e U f h
+n b u n u u N h
+f b n f u n F h
+u b c u e f U h
+N U F N U F N h
+a b n u f n g h
+a b c d e f g h
+
+Please enter phrase (sep. by single spaces):
+fun fun fun fun fun fun
+Looking for: fun fun fun fun fun fun
+containing 6 words
+The phrase: fun fun fun fun fun fun
+was found:
+fun: (0,5) to (0,3)
+fun: (1,4) to (3,6)
+fun: (4,6) to (6,6)
+fun: (5,5) to (3,3)
+fun: (4,3) to (6,3)
+fun: (6,2) to (6,0)
+n u n N U F n h
+f u u f F n u h
+u f f f e U f h
+n b u N u u N h
+f b n F U n F h
+u b c U e F U h
+N U F N u f N h
+a b n u f n g h
+a b c d e f g h
+
+Please enter phrase (sep. by single spaces):
+fun fun fun fun fun fun fun
+Looking for: fun fun fun fun fun fun fun
+containing 7 words
+The phrase: fun fun fun fun fun fun fun
+was found:
+fun: (0,5) to (0,3)
+fun: (1,4) to (3,6)
+fun: (4,6) to (6,6)
+fun: (5,5) to (3,3)
+fun: (2,2) to (0,0)
+fun: (1,0) to (3,0)
+fun: (4,0) to (6,0)
+N u n N U F n h
+F U u f F n u h
+U f F f e U f h
+N b u N u u N h
+F b n f U n F h
+U b c u e F U h
+N u f n u f N h
+a b n u f n g h
+a b c d e f g h
+
+Please enter phrase (sep. by single spaces):
+fun fun fun fun fun fun fun fun
+Looking for: fun fun fun fun fun fun fun fun
+containing 8 words
+The phrase: fun fun fun fun fun fun fun fun
+was found:
+fun: (2,2) to (0,0)
+fun: (1,0) to (3,0)
+fun: (2,1) to (0,3)
+fun: (1,4) to (3,6)
+fun: (4,6) to (6,6)
+fun: (5,5) to (3,3)
+fun: (4,3) to (6,3)
+fun: (6,2) to (6,0)
+N u n N u f n h
+F U U f F n u h
+U F F f e U f h
+N b u N u u N h
+f b n F U n F h
+u b c U e F U h
+N U F N u f N h
+a b n u f n g h
+a b c d e f g h
+
+Please enter phrase (sep. by single spaces):
+fun fun fun fun fun fun fun fun fun
+Looking for: fun fun fun fun fun fun fun fun fun
+containing 9 words
+The phrase: fun fun fun fun fun fun fun fun fun
+was not found
+
+Please enter phrase (sep. by single spaces):

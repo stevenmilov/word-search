@@ -1,0 +1,121 @@
+assig3 > java Assig3
+Please enter grid filename:
+sample.txt
+a b s t r a c t i j 
+a t a d t d a t a j 
+t b c d c a g h t j 
+y b c d a t g h y j 
+p b c d r a g h p j 
+e b c d t f l h e j 
+s a r e s f o h s j 
+a r e d b f o h a j 
+r b c d a f c h r j 
+e r e a l l y r e j 
+
+Please enter phrase (sep. by single spaces):
+abstract
+Looking for: abstract
+containing 1 words 
+The phrase: abstract
+was found:
+abstract: (0,0) to (0,7)
+A B S T R A C T i j 
+a t a d t d a t a j 
+t b c d c a g h t j 
+y b c d a t g h y j 
+p b c d r a g h p j 
+e b c d t f l h e j 
+s a r e s f o h s j 
+a r e d b f o h a j 
+r b c d a f c h r j 
+e r e a l l y r e j 
+
+Please enter phrase (sep. by single spaces):
+abstract data types
+Looking for: abstract data types
+containing 3 words 
+The phrase: abstract data types
+was found:
+abstract: (8,4) to (1,4)
+data: (1,5) to (1,8)
+types: (2,8) to (6,8)
+a b s t r a c t i j 
+a t a d T D A T A j 
+t b c d C a g h T j 
+y b c d A t g h Y j 
+p b c d R a g h P j 
+e b c d T f l h E j 
+s a r e S f o h S j 
+a r e d B f o h a j 
+r b c d A f c h r j 
+e r e a l l y r e j 
+
+Please enter phrase (sep. by single spaces):
+abstract data types are really cool
+Looking for: abstract data types are really cool
+containing 6 words 
+The phrase: abstract data types are really cool
+was found:
+abstract: (8,4) to (1,4)
+data: (1,3) to (1,0)
+types: (2,0) to (6,0)
+are: (7,0) to (9,0)
+really: (9,1) to (9,6)
+cool: (8,6) to (5,6)
+a b s t r a c t i j 
+A T A D T d a t a j 
+T b c d C a g h t j 
+Y b c d A t g h y j 
+P b c d R a g h p j 
+E b c d T f L h e j 
+S a r e S f O h s j 
+A r e d B f O h a j 
+R b c d A f C h r j 
+E R E A L L Y r e j 
+
+Please enter phrase (sep. by single spaces):
+abstract data types are really awesome
+Looking for: abstract data types are really awesome
+containing 6 words 
+The phrase: abstract data types are really awesome
+was not found
+
+Please enter phrase (sep. by single spaces):
+data types
+Looking for: data types
+containing 2 words 
+The phrase: data types
+was found:
+data: (1,3) to (1,0)
+types: (2,0) to (6,0)
+a b s t r a c t i j 
+A T A D t d a t a j 
+T b c d c a g h t j 
+Y b c d a t g h y j 
+P b c d r a g h p j 
+E b c d t f l h e j 
+S a r e s f o h s j 
+a r e d b f o h a j 
+r b c d a f c h r j 
+e r e a l l y r e j 
+
+Please enter phrase (sep. by single spaces):
+are
+Looking for: are
+containing 1 words 
+The phrase: are
+was found:
+are: (6,1) to (6,3)
+a b s t r a c t i j 
+a t a d t d a t a j 
+t b c d c a g h t j 
+y b c d a t g h y j 
+p b c d r a g h p j 
+e b c d t f l h e j 
+s A R E s f o h s j 
+a r e d b f o h a j 
+r b c d a f c h r j 
+e r e a l l y r e j 
+Please enter phrase (sep. by single spaces):
+
+assig3 > 

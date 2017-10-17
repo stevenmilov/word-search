@@ -1,0 +1,81 @@
+assig3 > java Assig3
+Please enter grid filename:
+sample2.txt
+a b c d s i z e i j k l 
+a z i s l z i s l j k l 
+a b c i a f r h a j k l 
+a b c z u f o h u j k l 
+a b c e s f d h s j k l 
+a b c d u f e h u j k l 
+a b c d n f n h n j k l 
+a b c d u f t h u j k l 
+a b c d f o s o f j k l 
+
+Please enter phrase (sep. by single spaces):
+rodents
+Looking for: rodents
+containing 1 words 
+The phrase: rodents
+was found:
+rodents: (2,6) to (8,6)
+a b c d s i z e i j k l 
+a z i s l z i s l j k l 
+a b c i a f R h a j k l 
+a b c z u f O h u j k l 
+a b c e s f D h s j k l 
+a b c d u f E h u j k l 
+a b c d n f N h n j k l 
+a b c d u f T h u j k l 
+a b c d f o S o f j k l 
+
+Please enter phrase (sep. by single spaces):
+rodents of unusual
+Looking for: rodents of unusual
+containing 3 words 
+The phrase: rodents of unusual
+was found:
+rodents: (2,6) to (8,6)
+of: (8,7) to (8,8)
+unusual: (7,8) to (1,8)
+a b c d s i z e i j k l 
+a z i s l z i s L j k l 
+a b c i a f R h A j k l 
+a b c z u f O h U j k l 
+a b c e s f D h S j k l 
+a b c d u f E h U j k l 
+a b c d n f N h N j k l 
+a b c d u f T h U j k l 
+a b c d f o S O F j k l 
+
+Please enter phrase (sep. by single spaces):
+rodents of unusual size
+Looking for: rodents of unusual size
+containing 4 words 
+The phrase: rodents of unusual size
+was not found
+
+Please enter phrase (sep. by single spaces):
+size
+Looking for: size
+containing 1 words 
+The phrase: size
+was found:
+size: (0,4) to (0,7)
+a b c d S I Z E i j k l 
+a z i s l z i s l j k l 
+a b c i a f r h a j k l 
+a b c z u f o h u j k l 
+a b c e s f d h s j k l 
+a b c d u f e h u j k l 
+a b c d n f n h n j k l 
+a b c d u f t h u j k l 
+a b c d f o s o f j k l 
+
+Please enter phrase (sep. by single spaces):
+unusual size
+Looking for: unusual size
+containing 2 words 
+The phrase: unusual size
+was not found
+
+Please enter phrase (sep. by single spaces):

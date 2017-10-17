@@ -1,0 +1,51 @@
+CS 0445 Assignment Information Sheet
+
+You must electronically submit an information sheet with every assignment. Also be sure to submit all materials following the procedures described on the submission procedures page.
+
+Name:__Steven Milov________________ Assignment #: ____3__________
+
+Lecture Day and Time: ____T,TH 9:30 AM_______________________
+
+Recitation Day and Time: ___W 11:00 AM______________________
+
+Program Due Date: _____3/16/17__________________
+
+Handed in Date: ______3/15/17_________________
+
+Source code (.java) file name(s):
+
+__________Assig3.java______________________________________________________
+
+________________________________________________________________
+
+Compiled (.class) file name(s): ________________________________
+
+___________Assig3.class_____________________________________________________
+
+________________________________________________________________
+
+Does your program compile without error?: ___yes__________
+
+If not, what is/are the error(s)?:
+
+________________________________________________________________
+
+________________________________________________________________
+
+________________________________________________________________
+
+Does your program run without error?: __yes___________
+
+If not, what is/are the error(s) and which parts of your program run correctly?:
+
+________________________________________________________________
+
+________________________________________________________________
+
+________________________________________________________________
+
+________________________________________________________________
+
+Additional comments (including problems and extra credit):
+
+_______Assig3.java also handles diagonal recursion(extra credit). If you enter “sampleExtra.txt”, you can search for as many “fun” words as you want. It will find up to 8. I also included a sampleExtra-out.txt so you can see what I inputted into the program. 
